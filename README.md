@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey there 👋  
+## I'm Liam
 
-<!--
-**liambal/liambal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 18 y/o developer passionate about building cool stuff  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 💡 I love coding and turning ideas into real apps  
+- 🎮 Currently exploring game development with **Unity**  
+- ⚒️ Enjoy working with game code (especially Minecraft-related stuff)  
+- 🚀 Always learning, building, and improving  
+
+---
+
+### 🛠️ What I Do
+- Build apps from scratch  
+- Experiment with game mechanics & systems  
+- Work on creative coding projects  
+
+---
+
+### 🌱 Currently
+- Learning more about game development  
+- Improving my programming skills  
+- Trying to ship more projects  
+
+---
+
+### ⚡ Fun Facts
+- I like building things more than planning them  
+- I learn best by doing  
+- I enjoy challenges that push my limits  
+
+---
+
+### 📌 Goals
+> Become a better developer, build awesome games, and create projects I'm proud of.
+
+---
+
+⭐ *Check out my repositories and follow my journey!*
